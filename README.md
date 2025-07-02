@@ -2,7 +2,7 @@
 
 Atuo com **Geoprocessamento** 🗺️, **Sensoriamento Remoto** 🛰️ e **Modelagem Ambiental** 🌱.
 
-- 🛠️ **Linguagens e Ferramentas**: Python, R, Google Earth Engine, QGIS, HTML/CSS, JavaScript, GDAL, PostGIS  
+- 🛠️ **Linguagens e Ferramentas**: Python, R, Google Earth Engine, Inteligência Artificial, QGIS, HTML/CSS, JavaScript, GDAL, PostGIS  
 - 🔬 **Áreas de Atuação**: Uso e cobertura da terra, modelagem hidrológica, análise de dados, hidrossedimentologia, NDVI e índices de vegetação, monitoramento ambiental  
 - 🌍 **Temas de Interesse**: Análise espacial, modelagem de erosão (USPED) e transporte de sedimentos, avaliação de impacto ambiental, estratégias de restauração  
 - 🚀 **Projetos**: WebGIS, dashboards interativos, automação em processamento de imagens  
