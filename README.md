@@ -1,51 +1,35 @@
 # 👋 Bem-vindo ao meu GitHub!
 
-Atuo com **Geoprocessamento** 🗺️, **Sensoriamento Remoto** 🛰️ e **Modelagem Ambiental** 🌱.
+Sou **Engenheiro Florestal** com **Mestrado em Análise e Modelagem de Sistemas Ambientais**, especializado em transformar dados geoespaciais complexos em insights acionáveis para a tomada de decisões ambientais.
 
-- 🛠️ **Linguagens e Ferramentas**: Python, R, Google Earth Engine, Inteligência Artificial, QGIS, HTML/CSS, JavaScript, GDAL, PostGIS  
-- 🔬 **Áreas de Atuação**: Uso e cobertura da terra, modelagem hidrológica, análise de dados, hidrossedimentologia, NDVI e índices de vegetação, monitoramento ambiental  
-- 🌍 **Temas de Interesse**: Análise espacial, modelagem de erosão (USPED) e transporte de sedimentos, avaliação de impacto ambiental, estratégias de restauração  
-- 🚀 **Projetos**: WebGIS, dashboards interativos, automação em processamento de imagens  
+- 🛠️ **Linguagens e Ferramentas**: Python, R, Google Earth Engine, Inteligência Artificial, QGIS, HTML/CSS, JavaScript, GDAL, PostGIS
+- 🔬 **Áreas de Atuação**: Uso e cobertura da terra, modelagem hidrológica, análise de dados, hidrossedimentologia, NDVI e índices de vegetação, monitoramento ambiental
+- 🌍 **Temas de Interesse**: Análise espacial, modelagem de erosão (USPED) e transporte de sedimentos, avaliação de impacto ambiental, estratégias de restauração
+- 🚀 **Projetos**: WebGIS, dashboards interativos, automação em processamento de imagens
 - 📚 **Atuação atual**: Análise de dados e Geotecnologias | Aberto a colaborações técnicas e científicas
 
-📌 **Contato**: hugohcsalis@gmail.com ou hugohcsalis2@gmail.com  
-🔗 [Portfólio](https://link-do-seu-portfolio) | [LinkedIn](https://www.linkedin.com/in/seu-linkedin)
+📌 **Contato**: hugohcsalis2@gmail.com
+
+🔗 [**Portfólio Profissional**](https://hugoh-sig.github.io/) | [**LinkedIn**](https://www.linkedin.com/in/hugo-henrique-96347615b/)
 
 ---
 
-### 🌟 Destaques
+### 🌟 Estatísticas do GitHub
 
-- ✅ Scripts personalizados no Google Earth Engine  
-- ✅ Monitoramento da qualidade da água com NDVI, NDTI e MNDWI  
-- ✅ Dashboards de impacto com Metabase e Python  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hugoh-sig&show_icons=true&theme=radical&rank_icon=github" alt="Estatísticas do GitHub de Hugo Henrique" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugoh-sig&layout=compact&theme=radical" alt="Linguagens Mais Usadas" />
+</p>
+
+---
+
+### 🚀 Destaques
+
+- ✅ **WebMap Paraopeba**: Aplicação web interativa para análise de dados geoespaciais pós-enchentes.
+- ✅ **Dashboard de Óxidos de Ferro**: Ferramenta em R Shiny para visualização de dados de solos.
+- ✅ **Scripts em Google Earth Engine**: Automação para processamento de imagens de satélite e análise de índices de vegetação.
 
 ---
 
 > *"Geotecnologia não é apenas dado — é poder de decisão para os territórios."*
 
----
-
-# 👋 Welcome to my GitHub!
-
-I work with **GIS** 🗺️, **Remote Sensing** 🛰️, and **Environmental Modeling** 🌱.
-
-- 🛠️ **Languages and Tools**: Python, R, Google Earth Engine, QGIS, HTML/CSS, JavaScript, GDAL, PostGIS  
-- 🔬 **Fields of Expertise**: Land use and cover, hydrological modeling, data analysis, hydrosedimentology, NDVI and vegetation indices, environmental monitoring  
-- 🌍 **Research Topics**: Spatial analysis, erosion and sediment transport modeling (USPED), environmental impact assessment, restoration strategies  
-- 🚀 **Projects**: WebGIS, interactive dashboards, automated image processing  
-- 📚 **Current Role**: Data Analysis and Geotechnologies | Open to technical and scientific collaborations
-
-📌 **Contact**: hugohcsalis@gmail.com or hugohcsalis2@gmail.com  
-🔗 [Portfolio](https://link-to-your-portfolio) | [LinkedIn](https://www.linkedin.com/in/your-linkedin)
-
----
-
-### 🌟 Highlights
-
-- ✅ Custom scripts in Google Earth Engine  
-- ✅ Water quality monitoring using NDVI, NDTI, and MNDWI  
-- ✅ Impact dashboards with Metabase and Python  
-
----
-
-> *"Geotechnology is not just data — it's decision-making power for the territories."*
