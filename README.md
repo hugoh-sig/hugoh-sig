@@ -1,6 +1,6 @@
 # 👋 Bem-vindo ao meu GitHub!
 
-Sou **Engenheiro Florestal** com **Mestrado em Análise e Modelagem de Sistemas Ambientais**, especializado em transformar dados geoespaciais complexos em insights acionáveis para a tomada de decisões ambientais.
+Sou **Engenheiro Florestal** com **Mestrado em Análise e Modelagem de Sistemas Ambientais**, especializado em transformar dados geoespaciais em informações para a tomada de decisões ambientais.
 
 - 🛠️ **Linguagens e Ferramentas**: Python, R, Google Earth Engine, Inteligência Artificial, QGIS, HTML/CSS, JavaScript, GDAL, PostGIS
 - 🔬 **Áreas de Atuação**: Uso e cobertura da terra, modelagem hidrológica, análise de dados, hidrossedimentologia, NDVI e índices de vegetação, monitoramento ambiental
